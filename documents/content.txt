@@ -1,1 +1,14 @@
 lmao
+
+git fetch
+
+git branch -a
+
+git branch
+
+git log
+
+git checkout
+
+git push
+
